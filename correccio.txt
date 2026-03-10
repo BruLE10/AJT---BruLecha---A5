@@ -1,0 +1,11 @@
+Ex1: 5/5
+Comentari:
+  class playlist:
+    def __init__(self, list_song):
+        self.list_song = list_song
+        list_song = [] ---------------------> Aquesta línia de codi no fa res
+
+Ex 2: 5/5
+  Si us plau, recorda de fer les coses pel teu compte.
+
+Nota: 9/10
